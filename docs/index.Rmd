@@ -1,0 +1,20 @@
+---
+title: "Kevin Avilés-Rodríguez"
+---
+
+---
+title: "Kevin Avilés-Rodríguez"
+---
+
+<h1>About me:</h1>
+I grew up in Puerto Rico and I conduct a lot of my research on the island with the aim to aid in conservation of its amazing biodiversity. Furthermore, I am passionate about helping Puerto Ricans re-connect with their biodiversity to aid in local policy that will protect and conserve as many species as possible. My reasearch in particular focuses on evaluating the ecological and evolutionary implications of human induced environmental changes (e.g., urbanization, climate change, spread of invasive species). 
+
+```{r, echo=F, message=F, warning=F}
+source("googlescholar.R")
+
+Check.scholar("https://scholar.google.com/citations?user=yPk6h9EAAAAJ&hl=en")
+
+
+```
+
+<q><i>I created the function used to generate this infographic. You can download googlescholar.R from my github and supply the url to </i></q>
